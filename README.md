@@ -24,7 +24,7 @@ ProfAdvisor is a platform designed to help students make informed decisions when
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/profadvisor.git
+    git clone https://github.com/AryanBhardwaj789/ProfAdvisor.git
     ```
 2. Navigate to the project directory:
     ```bash
